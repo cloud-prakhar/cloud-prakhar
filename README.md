@@ -72,9 +72,13 @@
 
 ## 📊 GitHub Stats
 
-![Prakhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cloud-prakhar&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&rank_icon=github)
+![](https://komarev.com/ghpvc/?username=cloud-prakhar&style=flat-square&color=blueviolet&label=Profile+Views)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cloud-prakhar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+| Metric | Link |
+|---|---|
+| 📁 Repositories | [github.com/cloud-prakhar?tab=repositories](https://github.com/cloud-prakhar?tab=repositories) |
+| ⭐ Stars Received | [github.com/cloud-prakhar?tab=stars](https://github.com/cloud-prakhar?tab=stars) |
+| 📈 Contribution Graph | [github.com/cloud-prakhar#contributions](https://github.com/cloud-prakhar) |
 
 ---
 
