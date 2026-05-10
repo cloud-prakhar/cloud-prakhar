@@ -72,13 +72,9 @@
 
 ## 📊 GitHub Stats
 
-![](https://komarev.com/ghpvc/?username=cloud-prakhar&style=flat-square&color=blueviolet&label=Profile+Views)
-
-| Metric | Link |
-|---|---|
-| 📁 Repositories | [github.com/cloud-prakhar?tab=repositories](https://github.com/cloud-prakhar?tab=repositories) |
-| ⭐ Stars Received | [github.com/cloud-prakhar?tab=stars](https://github.com/cloud-prakhar?tab=stars) |
-| 📈 Contribution Graph | [github.com/cloud-prakhar#contributions](https://github.com/cloud-prakhar) |
+![Followers](https://img.shields.io/github/followers/cloud-prakhar?label=Followers&style=flat-square&logo=github&color=blue)
+![Stars](https://img.shields.io/github/stars/cloud-prakhar?label=Total%20Stars&style=flat-square&logo=github&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=cloud-prakhar&style=flat-square&color=blueviolet&label=Profile+Views)
 
 ---
 
