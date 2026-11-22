@@ -2,10 +2,12 @@
 
 > DevOps & SRE Engineer · Cloud Architect · Educator · Creator at **OmnigyaCode**
 
-[![YouTube](https://img.shields.io/badge/YouTube-@omnigyacode-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@omnigyacode)
-[![Instagram](https://img.shields.io/badge/Instagram-@omnigyacode-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/omnigyacode/)
-[![Email](https://img.shields.io/badge/Email-cloud.prakhargupta@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cloud.prakhargupta@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-cloud--prakhar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cloud-prakhar)
+<p align="left">
+  <a href="https://www.youtube.com/@omnigyacode"><img src="https://img.shields.io/badge/YouTube-@omnigyacode-FF4E45?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/omnigyacode/"><img src="https://img.shields.io/badge/Instagram-@omnigyacode-C13584?style=for-the-badge&logo=instagram&logoColor=white&labelColor=F56040" alt="Instagram"/></a>
+  <a href="mailto:cloud.prakhargupta@gmail.com"><img src="https://img.shields.io/badge/Gmail-cloud.prakhargupta@gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Gmail"/></a>
+  <a href="https://github.com/cloud-prakhar"><img src="https://img.shields.io/badge/GitHub-cloud--prakhar-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/></a>
+</p>
 
 ---
 
@@ -91,8 +93,10 @@
 
 I share tutorials, visual explainers and hands-on walkthroughs of the labs above.
 
-[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@omnigyacode)
-[![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omnigyacode/)
+<p align="left">
+  <a href="https://www.youtube.com/@omnigyacode"><img src="https://img.shields.io/badge/▶_Subscribe-OmnigyaCode_on_YouTube-FF4E45?style=for-the-badge&logo=youtube&logoColor=white&labelColor=CC0000" alt="Subscribe on YouTube"/></a>
+  <a href="https://www.instagram.com/omnigyacode/"><img src="https://img.shields.io/badge/♥_Follow-@omnigyacode_on_Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E1306C" alt="Follow on Instagram"/></a>
+</p>
 
 ---
 
@@ -100,7 +104,11 @@ I share tutorials, visual explainers and hands-on walkthroughs of the labs above
 
 Open to **new projects, collaborations, training sessions and content partnerships** around DevOps, SRE, Cloud and AI.
 
-📧 **[cloud.prakhargupta@gmail.com](mailto:cloud.prakhargupta@gmail.com)**
+<p align="left">
+  <a href="mailto:cloud.prakhargupta@gmail.com"><img src="https://img.shields.io/badge/✉_Email_Me-cloud.prakhargupta@gmail.com-34A853?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email me"/></a>
+  <a href="https://www.youtube.com/@omnigyacode"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://www.instagram.com/omnigyacode/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
 
 ---
 
