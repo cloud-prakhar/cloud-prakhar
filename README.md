@@ -1,72 +1,106 @@
 # 👋 Hey, I'm Prakhar
 
-> DevOps Engineer · Cloud Architect · AI/GenAI Explorer
+> DevOps & SRE Engineer · Cloud Architect · Educator · Creator at **OmnigyaCode**
+
+[![YouTube](https://img.shields.io/badge/YouTube-@omnigyacode-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@omnigyacode)
+[![Instagram](https://img.shields.io/badge/Instagram-@omnigyacode-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/omnigyacode/)
+[![Email](https://img.shields.io/badge/Email-cloud.prakhargupta@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:cloud.prakhargupta@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-cloud--prakhar-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cloud-prakhar)
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🚀 DevOps Engineer with deep expertise in **AWS**, **CI/CD (GitHub Actions)**, **Docker**, **Kubernetes**, and **Terraform**
-- 🔭 Passionate about **observability** — working hands-on with **Dynatrace & Dynatrace Grail**
-- 🤖 Exploring **AI/GenAI** — LLM tooling, MCP (Model Context Protocol), agentic systems & RAG pipelines
-- 🎓 Educator & instructor — delivering DevOps & Python training and guiding learners through real-world cloud projects
-- 🧠 Currently on a structured **6-month Google interview prep roadmap** (DSA · System Design · Go · K8s · AI/GenAI)
-- 🌱 Building with **Python** (automation, Lambda, boto3) and levelling up in **Go**
-- 💡 Firm believer in *automate everything, observe everything*
+- 🚀 DevOps & SRE Engineer working across **AWS**, **Azure** and **GCP** with **Terraform**, **Kubernetes**, **Docker** and **CI/CD**
+- 🔭 Observability nerd — **Prometheus**, **Grafana**, **Alertmanager**, **ELK** and **Dynatrace**
+- 🎓 Educator — I build hands-on, production-inspired labs and teach DevOps, Cloud & Python through live sessions
+- 🎥 Creator at **[OmnigyaCode](https://www.youtube.com/@omnigyacode)** — DevOps, Cloud & AI explained simply, with diagrams and real labs
+- 🤖 Exploring **AI/GenAI** — LLMs, RAG, vector databases, MCP and agentic systems for AI-driven DevOps
+- 🌱 Building with **Python** and levelling up in **Go**
 - 📍 Based in **India**
-
----
-
-## 🛠️ Tech Stack
-
-**Cloud & Infra**
-`AWS` `Terraform` `Kubernetes` `Docker`
-
-**CI/CD & Automation**
-`GitHub Actions` `Ansible`
-
-**Observability**
-`Dynatrace` `Dynatrace Grail` `Elasticsearch` `Kibana`
-
-**AI / GenAI**
-`LangChain` `OpenAI` `Anthropic Claude` `Hugging Face` `RAG` `MCP` `Agentic AI`
-
-**Languages**
-`Python` `Go` `Bash`
-
----
-
-## 🤖 AI / GenAI Interests
-
-- 🧩 **MCP (Model Context Protocol)** — integrating LLMs with tools, APIs & infra via Cursor + MCP servers
-- 🔗 **Agentic AI** — multi-agent orchestration, autonomous task execution & LLM-powered pipelines
-- 📚 **RAG** — building context-aware AI systems over private knowledge bases
-- 🌐 **LLM Serving** — Flask/FastAPI chat servers with WebSocket streaming & multi-provider support
-- ☁️ **AI on AWS** — Lambda-based inference & serverless AI backends
-- 🛠️ **AI-Driven DevOps** — using LLMs to supercharge CI/CD, incident response & infra automation
 
 ---
 
 ## 🚧 Currently Working On
 
-| Project | Description |
+| Project | What it is |
 |---|---|
-| 🎯 **Google Interview Prep** | 6-month plan: DSA, System Design, Go, K8s, Terraform, AI/GenAI |
-| 🐳 **Docker Deep Dive** | Container networking, image optimization, multi-stage builds |
-| ☁️ **AWS Serverless Patterns** | SNS → SQS → Lambda → DLQ pipelines with Python & boto3 |
-| 🤖 **LLM Chat Server** | Flask-based multi-provider LLM server with WebSocket & MCP |
-| 🧠 **Agentic AI Systems** | Multi-agent frameworks for DevOps automation |
+| ☸️ [**k8s-projects**](https://github.com/cloud-prakhar/k8s-projects) | Learn Kubernetes by deploying real apps end-to-end — Kind locally, then AWS EKS, with failure labs that break things on purpose |
+| 🛡️ [**devops-sre-engineering-labs**](https://github.com/cloud-prakhar/devops-sre-engineering-labs) | Production-inspired DevOps & SRE labs across AWS, Azure & GCP — Terraform, K8s, observability, ADRs, cost analysis & troubleshooting |
+| 📈 [**learn-monitoring**](https://github.com/cloud-prakhar/learn-monitoring) | Local Prometheus + Grafana lab (Docker & native) with three instrumented Python projects and ready-made dashboards |
+| 🧠 [**ai-ml-mastery**](https://github.com/cloud-prakhar/ai-ml-mastery) | Beginner-to-advanced AI/ML path — transformers, GenAI, RAG, fine-tuning, AI agents & MLOps |
 
 ---
 
-## 📚 Projects
+## 🛠️ Tech Stack
 
-- 🔧 [cloud-projects](https://github.com/cloud-prakhar/cloud-projects) — Hands-on AWS, distributed systems & scalable app design
-- ⚡ [github-actions-master-class](https://github.com/cloud-prakhar/github-actions-master-class) — Enterprise-grade CI/CD pipelines
-- 🐳 [demo-docker-app](https://github.com/cloud-prakhar/demo-docker-app) — Container creation, image optimization & DevOps deployment
-- 📊 [elk-setup](https://github.com/cloud-prakhar/elk-setup) — Simplified Elasticsearch, Logstash & Kibana setup
-- 🐍 [python-for-all-ages](https://github.com/cloud-prakhar/python-for-all-ages) — Complete Python knowledge base for beginners
-- 🛠️ [basic-installations](https://github.com/cloud-prakhar/basic-installations) — Essential software & tools setup guides
+**Cloud & IaC**
+`AWS` `Azure` `GCP` `Terraform`
+
+**Containers & Orchestration**
+`Docker` `Kubernetes` `EKS` `Helm` `Kind`
+
+**CI/CD & Automation**
+`GitHub Actions` `Jenkins` `Ansible`
+
+**Observability**
+`Prometheus` `Grafana` `Alertmanager` `Elasticsearch` `Logstash` `Kibana` `Dynatrace`
+
+**Web & Linux**
+`Linux` `NGINX` `Apache` `Bash`
+
+**AI / GenAI**
+`LLMs` `RAG` `Vector DBs` `MCP` `Agentic AI` `LangChain` `Hugging Face`
+
+**Languages**
+`Python` `Go` `Bash` `HCL`
+
+---
+
+## 📚 Learning Repos & Projects
+
+**☸️ Kubernetes**
+- [k8s-projects](https://github.com/cloud-prakhar/k8s-projects) — Real-app Kubernetes projects, from a single pod to microservices on EKS
+- [k8s-concepts-visualized](https://github.com/cloud-prakhar/k8s-concepts-visualized) — Kubernetes concepts explained with diagrams and analogies
+- [kubernetes-command-mindmap](https://github.com/cloud-prakhar/kubernetes-command-mindmap) — Visual kubectl / Helm / EKS cheat sheet & mind map
+
+**🏗️ Terraform & Cloud**
+- [cloud-projects](https://github.com/cloud-prakhar/cloud-projects) — Cloud-native AWS projects, distributed systems & scalable app design ⭐
+- [terraform-mastery](https://github.com/cloud-prakhar/terraform-mastery) — Terraform from beginner to advanced: modules, patterns & real projects
+- [terraform-aws-learning](https://github.com/cloud-prakhar/terraform-aws-learning) — Terraform on AWS with labs, state management, testing & CI/CD
+
+**⚙️ CI/CD & Automation**
+- [github-actions-master-class](https://github.com/cloud-prakhar/github-actions-master-class) — Enterprise-grade GitHub Actions pipelines & reusable workflows
+- [ultimate-jenkins-devops](https://github.com/cloud-prakhar/ultimate-jenkins-devops) — End-to-end Jenkins, from basics to production deployment patterns
+
+**🐳 Containers**
+- [docker-mastery](https://github.com/cloud-prakhar/docker-mastery) — Docker commands, Compose, networking, volumes & mini projects
+
+**🔭 Monitoring & Observability**
+- [monitoring-observability](https://github.com/cloud-prakhar/monitoring-observability) — Full learning path: metrics, logs, traces, alerting & dashboard design
+- [learn-monitoring](https://github.com/cloud-prakhar/learn-monitoring) — Prometheus + Grafana local lab with instrumented Python apps
+
+**🐧 Foundations**
+- [learning-linux](https://github.com/cloud-prakhar/learning-linux) — Linux fundamentals, shell scripting & troubleshooting for DevOps
+- [git-cheat-sheet](https://github.com/cloud-prakhar/git-cheat-sheet) — Practical, no-fluff Git reference
+- [python-for-all-ages](https://github.com/cloud-prakhar/python-for-all-ages) — Python knowledge base for beginners
+
+---
+
+## 🎥 OmnigyaCode — Learn DevOps, Cloud & AI
+
+I share tutorials, visual explainers and hands-on walkthroughs of the labs above.
+
+[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@omnigyacode)
+[![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omnigyacode/)
+
+---
+
+## 🤝 Let's Collaborate
+
+Open to **new projects, collaborations, training sessions and content partnerships** around DevOps, SRE, Cloud and AI.
+
+📧 **[cloud.prakhargupta@gmail.com](mailto:cloud.prakhargupta@gmail.com)**
 
 ---
 
@@ -75,12 +109,6 @@
 ![Followers](https://img.shields.io/github/followers/cloud-prakhar?label=Followers&style=flat-square&logo=github&color=blue)
 ![Stars](https://img.shields.io/github/stars/cloud-prakhar?label=Total%20Stars&style=flat-square&logo=github&color=yellow)
 ![Profile Views](https://komarev.com/ghpvc/?username=cloud-prakhar&style=flat-square&color=blueviolet&label=Profile+Views)
-
----
-
-## 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/cloud-prakhar)
 
 ---
 
